@@ -1,0 +1,6 @@
+framework module Pods_sjukstuganFinal {
+  umbrella header "Pods-sjukstuganFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
